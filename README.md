@@ -61,13 +61,13 @@
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/johan-sosa/" target="_blank">
+  <a href="https://www.linkedin.com/in/johan-sosa/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:sosa.johan@gmail.com" target="_blank">
+  <a href="mailto:sosa.johan@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sosa.johan@gmail.com" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://x.com/johansosas" target="_blank">
+  <a href="https://x.com/johansosas" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Johan's Twitter" style="margin-bottom: 5px;" />
   </a>
 </div>
